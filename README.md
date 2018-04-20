@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SimpleFrame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# frame-angular
+This is a frame angular application that will provide basic and neccessary features that can be scaled up to bigger projects
+>>>>>>> 20ad1fcfac3a99684aeb9a1dda834a2f2bca8590
